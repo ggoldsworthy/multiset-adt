@@ -9,3 +9,4 @@ public abstract class MultiSet {
      * @param item the item to add
      */
     abstract void add(Integer item);
+}
